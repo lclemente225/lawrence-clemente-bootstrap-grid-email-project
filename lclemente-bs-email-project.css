@@ -29,8 +29,9 @@
 .moogle-icon{
     width: 30px;
 }
-
 /*Top container end*/
+
+
 /*Bottom container start*/
 button{
     margin: 10px 0 10px 0;
@@ -116,15 +117,13 @@ button{
         min-width: 100%;
     }
     .dropdown-box{
-        max-width: 20px;
+        max-width: gi20px;
     }
     .checkbox{
         padding: 0 0 5px 20px;
         left: 220px;
     }
-    .messages{
-        max-width: 285px;
-    }
+
     /*Dropdown Menu Stuff*/
     .dropdown{
         bottom: 5px;
@@ -139,6 +138,7 @@ button{
 
     .messages{
         background-size: 200px;
+        max-height: 57vh;
      }
      /*makes it so the received messages are confined and you have to scroll thru*/
     .middle{
