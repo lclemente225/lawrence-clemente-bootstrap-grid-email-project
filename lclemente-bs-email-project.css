@@ -60,6 +60,9 @@ button{
     background-position-x: right;
     background-position-y: bottom;
 }
+.compose{
+    padding-bottom: 10px;
+}
 /*When you click on a received email*/
 .mail:active{
     border: 5px solid pink;
